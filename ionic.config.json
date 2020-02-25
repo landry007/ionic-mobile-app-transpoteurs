@@ -1,0 +1,7 @@
+{
+  "name": "tryRoom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
